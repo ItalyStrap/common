@@ -1,5 +1,7 @@
 # ItalyStrap Starter Module
 
+[![CS - File lint and file validation](https://github.com/ItalyStrap/common/actions/workflows/lint.yml/badge.svg)](https://github.com/ItalyStrap/common/actions/workflows/lint.yml)
+
 Common code and interfaces for ItalyStrap the OOP way
 
 This is a WIP and it's not ready for production.

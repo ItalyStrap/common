@@ -21,5 +21,4 @@
     </rule>
 
     <exclude-pattern>*/vendor/*</exclude-pattern>
-    <exclude-pattern>*/tests/_support/*</exclude-pattern>
 </ruleset>
