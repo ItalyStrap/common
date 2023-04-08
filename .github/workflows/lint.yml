@@ -33,3 +33,6 @@ jobs:
 
       - name: Coding standard
         run: composer run cs
+
+      - name: Psalm
+        run: composer run psalm
